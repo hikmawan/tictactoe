@@ -5,4 +5,6 @@
     <color name="colorAccent">#03DAC5</color>
     <color name="whitebackground">#D3D3D3</color>
     <color name="colorButton">#F9F9F9</color>
+    <color name="blue">#3700B3</color>
+    <color name="tosca">#03DAB6</color>
 </resources>

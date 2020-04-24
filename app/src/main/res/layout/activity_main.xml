@@ -19,7 +19,8 @@
             android:layout_height="40pt"
             android:layout_marginTop="3pt"
             android:layout_marginRight="3pt"
-            android:background="@color/colorButton" />
+            android:background="@color/colorButton"
+            android:onClick="buClick" />
 
         <Button
             android:id="@+id/btn2"
@@ -27,14 +28,16 @@
             android:layout_height="40pt"
             android:layout_marginTop="3pt"
             android:layout_marginRight="3pt"
-            android:background="@color/colorButton" />
+            android:background="@color/colorButton"
+            android:onClick="buClick" />
 
         <Button
             android:id="@+id/btn3"
             android:layout_width="40pt"
             android:layout_height="40pt"
             android:layout_marginTop="3pt"
-            android:background="@color/colorButton" />
+            android:background="@color/colorButton"
+            android:onClick="buClick" />
     </TableRow>
 
     <TableRow
@@ -48,7 +51,8 @@
             android:layout_height="40pt"
             android:layout_marginTop="3pt"
             android:layout_marginRight="3pt"
-            android:background="@color/colorButton" />
+            android:background="@color/colorButton"
+            android:onClick="buClick" />
 
         <Button
             android:id="@+id/btn5"
@@ -56,14 +60,16 @@
             android:layout_height="40pt"
             android:layout_marginTop="3pt"
             android:layout_marginRight="3pt"
-            android:background="@color/colorButton" />
+            android:background="@color/colorButton"
+            android:onClick="buClick" />
 
         <Button
             android:id="@+id/btn6"
             android:layout_width="40pt"
             android:layout_height="40pt"
             android:layout_marginTop="3pt"
-            android:background="@color/colorButton" />
+            android:background="@color/colorButton"
+            android:onClick="buClick" />
     </TableRow>
 
     <TableRow
@@ -77,7 +83,8 @@
             android:layout_height="40pt"
             android:layout_marginTop="3pt"
             android:layout_marginRight="3pt"
-            android:background="@color/colorButton" />
+            android:background="@color/colorButton"
+            android:onClick="buClick" />
 
         <Button
             android:id="@+id/btn8"
@@ -85,13 +92,15 @@
             android:layout_height="40pt"
             android:layout_marginTop="3pt"
             android:layout_marginRight="3pt"
-            android:background="@color/colorButton" />
+            android:background="@color/colorButton"
+            android:onClick="buClick" />
 
         <Button
             android:id="@+id/btn9"
             android:layout_width="40pt"
             android:layout_height="40pt"
             android:layout_marginTop="3pt"
-            android:background="@color/colorButton" />
+            android:background="@color/colorButton"
+            android:onClick="buClick" />
     </TableRow>
 </TableLayout>
